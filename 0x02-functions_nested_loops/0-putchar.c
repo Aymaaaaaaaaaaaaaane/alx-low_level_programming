@@ -3,7 +3,7 @@
 /**
  * main - Entry point of the program
  *
- * Description: This program demonstrates the usage of the _putchar function
+ * Description:  the usage of the _putchar function
  * to print the string "_putchar" character by character, followed by a new line.
  * It is written by mbah.
  *
