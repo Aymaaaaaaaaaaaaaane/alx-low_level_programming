@@ -4,7 +4,7 @@
  * main - Entry point of the program
  *
  * Description:the usage of the _putchar function
- * to print the string "_putchar" character by character, followed by a new line.
+ * to print string "_putchar" character by character, followed by a new line.
  * It is written by mbah.
  *
  * Return: Always 0 (indicating successful execution)
