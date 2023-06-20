@@ -1,13 +1,16 @@
 #include "main.h"
-	/**
-	 * main - print _putchar
-	 * is written by mbah
-	 * Return: 0
-	 */
 
-
-	int main(void)
-	{
+/**
+ * main - Entry point of the program
+ *
+ * Description: This program demonstrates the usage of the _putchar function
+ * to print the string "_putchar" character by character, followed by a new line.
+ * It is written by mbah.
+ *
+ * Return: Always 0 (indicating successful execution)
+ */
+int main(void)
+{
 	_putchar('_');
 	_putchar('p');
 	_putchar('u');
@@ -18,4 +21,5 @@
 	_putchar('r');
 	_putchar('\n');
 	return (0);
-	}
+}
+
