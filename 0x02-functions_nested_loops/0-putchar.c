@@ -3,7 +3,7 @@
 /**
  * main - Entry point of the program
  *
- * This program demonstrates the usage of the _putchar function to print the string "_putchar"
+ * the usage of the _putchar function to print the string "_putchar"
  * character by character.
  *
  * Return: Always 0 (indicating successful execution)
