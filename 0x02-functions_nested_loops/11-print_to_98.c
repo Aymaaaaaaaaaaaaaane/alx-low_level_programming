@@ -5,7 +5,7 @@
  * print_to_98 - Prints all natural numbers from n to 98, followed by a new line
  * @n: The starting number
  *
- * Description: function prints all  natural numbers from n to 98,
+ * Description: function prints all natural numbers from n to 98,
  * inclusively. greater than 98, it prints the numbers in descending order.
  * If n is less than 98, it prints the numbers in ascending order.
  */
